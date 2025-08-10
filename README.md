@@ -25,7 +25,7 @@ The goal is to derive **actionable insights** for business strategy using **Pyth
 - **Tools**: VS Code, Jupyter Notebook
 
 ## powebi
-   ![Download Power BI Dashboard (.pbix)](blinkit analysis/blinkit.pbix)
+   [Download Power BI Dashboard (.pbix)](blinkit anlyasis/blinkit.pbix)
    ![Image](screenshots/blinkit.png)
    
 ## Python
